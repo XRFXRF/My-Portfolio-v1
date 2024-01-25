@@ -261,6 +261,111 @@ const Home = () => {
             </div> */}
           </div>
         </div>
+{/* <!-- ================================ The Reason why I Take This Course =============================== --> */}
+        <div id="The Reason why I Take This Course">
+          <div className="reason-main">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
+                  <div className="main-title wow fadeIn">
+                    <h3 className="text-center">The Reason why I Take This Course</h3>
+                    <div className="underline1"></div>
+                    <div className="underline2"></div>
+                    <p>
+                    Taking CSCE 656, Computers and New Media, is awesome because it mixes tech with media, which is perfect for staying ahead in tech and media careers. It's not just about learning, it's about thinking critically about how tech impacts our world and getting creative with cool projects. It's all about keeping up with the fast-paced tech world and diving into something I'm really passionate about.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            
+            </div>
+          </div>
+        </div>
+
+{/* <!-- ================================ Preference List =============================== --> */}
+<div id="Preference List">
+          <div className="list-main">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
+                  <div className="main-title wow fadeIn">
+                    <h3  className="text-center">Media Preference List</h3>
+                    <div className="underline1"></div>
+                    <div className="underline2"></div>
+                    <p>
+    <ul>
+        <li><strong>Music</strong>
+            <ul>
+                <li>Genres: Classical, Rock, KPop, Jazz, Electronic, etc.</li>
+                <li>Devices: Smartphones, Car audio systems</li>
+            </ul>
+        </li>
+        <li><strong>Games</strong>
+            <ul>
+                <li>Genres: Action, Adventure, Sports, Simulation, etc.</li>
+                <li>Devices: PC, Console (PlayStation, Xbox), Mobile, Virtual Reality (VR)</li>
+            </ul>
+        </li>
+        <li><strong>Still Images</strong>
+            <ul>
+                <li>Genres: Photography, Digital Art (NFT), Illustrations</li>
+                <li>Platforms: Social Media (Instagram, Pinterest), Professional websites</li>
+            </ul>
+        </li>
+        <li><strong>Moving Images</strong>
+            <ul>
+                <li>Television
+                    <ul>
+                        <li>Genres: Drama, Comedy, Documentary, News, Sports</li>
+                        <li>Specific Shows: Game of Thrones, Stranger Things, The Office</li>
+                    </ul>
+                </li>
+                <li>Movies
+                    <ul>
+                        <li>Genres: Action, Drama, Comedy, Thriller, Science Fiction</li>
+                        <li>Specific Movies: Inception, The Matrix, Star Wars series</li>
+                    </ul>
+                </li>
+                <li>Online Streaming Platforms
+                    <ul>
+                        <li>Platforms: Netflix, Amazon Prime, Disney+, YouTube</li>
+                        <li>Genres: Documentaries, Indie Films, Web Series, Educational Content</li>
+                    </ul>
+                </li>
+                <li>Devices: Smart TV, Laptop, Tablet, Smartphone</li>
+            </ul>
+        </li>
+    </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            
+            </div>
+          </div>
+        </div>
+
+
+{/* <!-- ================================ Challenge =============================== --> */}
+<div id="Challenge">
+          <div className="Challenge-main">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
+                  <div className="main-title wow fadeIn">
+                    <h3 className="text-center">Challenge</h3>
+                    <div className="underline1"></div>
+                    <div className="underline2"></div>
+                    <p>
+                    A common challenge in content generation, particularly in video editing, is the hardware limitations of standard computers when dealing with high-resolution video editing, like 4K or 8K footage. When I edit videos, I find that such tasks require significant processing power, ample RAM, and extensive storage, which standard PCs might not offer. For instance, they may have insufficient CPU and GPU capabilities, leading to lag or crashes, and limited RAM can result in slow rendering times and difficulty in real-time playback. Additionally, the immense storage needs of high-resolution videos can overwhelm standard hard drives, both in capacity and read/write speeds. These limitations can drastically affect the efficiency and quality of video production, compelling content creators to either compromise on video quality or invest in specialized high-performance hardware.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            
+            </div>
+          </div>
+        </div>
 
         {/* <!-- ================================ Skill =============================== --> */}
 
