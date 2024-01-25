@@ -17,7 +17,7 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
+                          <b className="is-hidden">Ruofei Xu</b>
                           <b className="is-hidden">Designer</b>
                           <b className="is-visible">Developer</b>
                         </span>
@@ -26,7 +26,7 @@ const Home = () => {
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".4s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
+                              href="https://www.linkedin.com/in/felix-xu/"
                               target="newtab"
                             >
                               <i
@@ -37,7 +37,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana"
+                              href="https://github.com/XRFXRF"
                               target="newtab"
                             >
                               <i
@@ -46,7 +46,7 @@ const Home = () => {
                               ></i>
                             </a>
                           </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
+                          {/* <li className="wow fadeIn" data-wow-delay=".6s">
                             <a
                               href="https://www.instagram.com/sanajitjana01/"
                               target="newtab"
@@ -56,8 +56,8 @@ const Home = () => {
                                 aria-hidden="true"
                               ></i>
                             </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
+                          </li> */}
+                          {/* <li className="wow fadeIn" data-wow-delay=".8s">
                             <a
                               href="https://twitter.com/sanajitjana01"
                               target="newtab"
@@ -75,7 +75,7 @@ const Home = () => {
                             >
                               <i className="fa fa-book" aria-hidden="true"></i>
                             </a>
-                          </li>
+                          </li> */}
                         </ul>
                       </div>
                     </div>
@@ -101,15 +101,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                        I am a Master student at Texas A&M University, and I major in Computer Engineering. 
                       </p>
                     </div>
                   </div>
@@ -133,10 +125,10 @@ const Home = () => {
                         className="fa fa-file-image-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>UI/UX Design</h3>
+                      <h3>Backend Design</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p>Love to do Backend design for new product</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -171,7 +163,7 @@ const Home = () => {
                   <div className="col-md-4 col-sm-6 col-xs-12 about-col">
                     <div className="about-image">
                       <img
-                        src="assets/img/about-image.jpg"
+                        src="assets/img/ruofeixu1.jpg"
                         alt="sanajit-jana"
                         className="about-img wow fadeIn"
                       />
@@ -180,49 +172,38 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Hello! This is Ruofei Xu</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Kolkata, India. I enjoy
-                        building everything from small business sites to rich
-                        interactive web apps. if you are a business seeking a
-                        web presence or an employer looking to hire, you can get
+                        I am a Master student at Texas A&M University. My major is Computer Engineering, and I will graduate in May 2024, you can get
                         in touch with me{" "}
                         <a className="underline2" href="#contact">
                           {" "}
                           here.
                         </a>{" "}
-                        I design and build digital products with simple and
-                        beautiful code. I specialize in custom web theme
-                        development and love what I do.
+                        I like programming.
                         <br />
                         <br />
-                        Since beginning my journey as a web developer in my
-                        college days, I've done remote work for agencies,
-                        consulted for startups, and collaborated with talented
-                        people to create digital products for both business and
-                        consumer use. I'm quietly confident, naturally curious,
-                        and perpetually working on improving my chops one design
-                        problem at a time.
+                        I am good at some programming languages such as Javascript, Python, TypeScript, etc.
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/Ruofei_Xu.pdf"
                         target="_blank"
                       >
                         See Resume
                       </a>
-                      <a className="about-link-2" href="#contact">
+                      {/* <a className="about-link-2" href="#contact">
                         Hire Me
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="work-counter text-center">
+            {/* <div className="work-counter text-center">
               <div className="counter">
                 <div className="container">
                   <div className="row wow fadeIn">
@@ -277,7 +258,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 
@@ -293,13 +274,18 @@ const Home = () => {
                     <div className="underline1"></div>
                     <div className="underline2"></div>
                     <p>
-                      I value simple content structure, clean design patterns,
-                      and thoughtful interactions.
+                    • Languages: Java, Python, JavaScript, Node.js, TypeScript, C++, C, SQL, HTML, CSS
+                    <br />
+• Technologies: React.js, Express.js, Spring Boot, Flask, Django, Linux, MySQL, MongoDB, Git, RESTful API,
+Docker
+<br />
+• Tools: GitHub, AWS (SDK, CDK, Serverless, API Gateway, DynamoDB, etc.), Alibaba Cloud, Postman, Visual
+Studio Code, PyCharm, Anaconda, IntelliJ IDEA
                     </p>
                   </div>
                 </div>
               </div>
-              <div className="row love-row wow fadeIn">
+              {/* <div className="row love-row wow fadeIn">
                 <div className="col-md-6">
                   <div className="skill-details text-left">
                     <p>
@@ -340,7 +326,7 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -358,8 +344,8 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I like to code things from scratch, and enjoy bringing
-                        ideas to life in the browser.
+                      I like coding things from scratch, and enjoy bringing
+                        ideas to life by programming.
                       </p>
                     </div>
                   </div>
@@ -370,16 +356,17 @@ const Home = () => {
                       <div className="resume-hover"></div>
                       <div className="resume-main">
                         <i
-                          className="fa fa-home resume-icon"
+                          className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>School</h3>
-                        <h2>2010-2017</h2>
+                        <h3>Shanghai Jiao Tong University</h3>
+                        <h2>2017-2021</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Completed my school life from Haludbari High School
-                          (H.S.), Khejuri, West Bengal, India.
+                          Achieved Bachelor Degree at Shanghai Jiao Tong University.
+                          <br />
+                          Shanghai, China.
                         </p>
                       </div>
                     </div>
@@ -392,21 +379,14 @@ const Home = () => {
                           className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        <h3>Texas A&M University</h3>
+                        <h2>2022-2024</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Achieved my Graduation Degree from{" "}
-                          <a
-                            href="https://www.cclms.org/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
-                          </a>
-                          , Contai, West Bengal, India.
+                          Persuing the Master of Science in Computer Engineering degree at Texas A&M University.
+                          <br />
+                          College Station, Texas, United States.
                         </p>
                       </div>
                     </div>
@@ -416,23 +396,15 @@ const Home = () => {
                       <div className="resume-hover"></div>
                       <div className="resume-main">
                         <i
-                          className="fa fa-graduation-cap resume-icon"
+                          className="fa fa-briefcase resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Training &amp; Skill</h3>
-                        <h2>2022-2022</h2>
+                        <h3>Future</h3>
+                        <h2>2024-</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Currently learning Full-Stack Web Development from{" "}
-                          <a
-                            href="https://masaischool.com/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Masai School
-                          </a>
-                          , Bengaluru, India.
+                          I will become a Software Engineering after graduation.
                         </p>
                       </div>
                     </div>
@@ -462,21 +434,20 @@ const Home = () => {
                         ></i>
                         <h3>
                           <a
-                            href="https://patelgtech.com/"
+                            href="https://www.dingblock.tech/"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "#4d4d4d" }}
                           >
-                            Patel G Tech LLP
+                            DingStock
                           </a>
                         </h3>
-                        <h4>Repub Member</h4>
-                        <h2>2019-2020</h2>
+                        <h4>Software Engineer Intern</h4>
+                        <h2>May 2022 -- August 2022</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I did an internship at PATEL G TECH LLP as a
-                          Republication Team Member
+                          I did an internship at DingStock as a Software Engineer.
                         </p>
                       </div>
                     </div>
@@ -491,21 +462,20 @@ const Home = () => {
                         ></i>
                         <h3>
                           <a
-                            href="https://uaguria.com/"
+                            href="https://www.ellucian.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "#4d4d4d" }}
                           >
-                            Uaguria Software
+                            Ellucian
                           </a>
                         </h3>
-                        <h4>Web Developer</h4>
-                        <h2>2020-2022</h2>
+                        <h4>Software Engineer</h4>
+                        <h2>May 2023 -- August 2023</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          At Uaguria Software, I was working as a Web Developer
-                          &amp; IT Consultant Person
+                          An intenship as a software engineer at Ellucian.
                         </p>
                       </div>
                     </div>
@@ -672,7 +642,7 @@ const Home = () => {
 
         {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
-        <div id="service">
+        {/* <div id="service">
           <div className="service-content">
             <div className="service-grid text-center">
               <div className="container">
@@ -927,11 +897,11 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ BLOG ========================== --> */}
 
-        <div id="blog">
+        {/* <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
               <div className="container">
@@ -1116,7 +1086,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* <!-- ================================ CONTACT ========================== --> */}
 
@@ -1132,7 +1102,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I’m always open to discussing product design work or
+                          I'm always open to discussing product design work or
                           partnership opportunities.
                         </p>
                       </div>
@@ -1263,7 +1233,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>College Station, Texas, United States</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1244,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:ruofeifelixxu@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          ruofeifelixxu@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1293,14 +1263,14 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:8372876775"
+                          href="tel:9793448077"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +1 9793448077
                         </a>
                       </div>
                     </div>
@@ -1310,8 +1280,8 @@ const Home = () => {
                           className="fa fa-television contact-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
+                        <h3>LinkedIn</h3>
+                        <p>https://www.linkedin.com/in/felix-xu/</p>
                       </div>
                     </div>
                   </div>
@@ -1322,7 +1292,8 @@ const Home = () => {
                       <div class="map-wrap">
                         <iframe
                           title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
+                          
+                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109904.77634964722!2d-96.37423407128568!3d30.590972660940565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8646848619463ca3%3A0xc969c74db6bf6ac9!2sCollege%20Station%2C%20TX!5e0!3m2!1sen!2sus!4v1706214828610!5m2!1sen!2sus"
                           width="100%"
                           height="450"
                           style={{ border: "0" }}
