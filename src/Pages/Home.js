@@ -374,8 +374,8 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-md-12">
-                  <div className="main-title text-center wow fadeIn">
-                    <h3>My Skill</h3>
+                  <div className="main-title wow fadeIn">
+                    <h3 className="text-center">My Skill</h3>
                     <div className="underline1"></div>
                     <div className="underline2"></div>
                     <p>
