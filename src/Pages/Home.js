@@ -360,13 +360,25 @@ const Home = () => {
                     A common challenge in content generation, particularly in video editing, is the hardware limitations of standard computers when dealing with high-resolution video editing, like 4K or 8K footage. When I edit videos, I find that such tasks require significant processing power, ample RAM, and extensive storage, which standard PCs might not offer. For instance, they may have insufficient CPU and GPU capabilities, leading to lag or crashes, and limited RAM can result in slow rendering times and difficulty in real-time playback. Additionally, the immense storage needs of high-resolution videos can overwhelm standard hard drives, both in capacity and read/write speeds. These limitations can drastically affect the efficiency and quality of video production, compelling content creators to either compromise on video quality or invest in specialized high-performance hardware.
                     </p>
                   </div>
+                  
                 </div>
+                
               </div>
             
             </div>
           </div>
         </div>
 
+        <div class="text-center" style={{marginTop: "20px"}}>
+
+        <a
+                        className="about-link-1"
+                        href="/assignment2"
+                        target="_blank"
+                      >
+                        Assignment 2 
+                      </a>
+        </div>
         {/* <!-- ================================ Skill =============================== --> */}
 
         <div id="skill">
